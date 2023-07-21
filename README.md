@@ -1,5 +1,4 @@
-# fundamentos-smart-contracts
-## Contrato inteligente "Crowfunding"
+## Contrato inteligente "Crowdfunding"
 
 Este contrato permite crear uno o varios proyectos en los cuales se pueda fondear con Ethereum (sin valor). 
 
